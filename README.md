@@ -5,7 +5,7 @@
 * Cleaned and prepared data for modeling
 * Gave examples of how the model can be used in good practice for NFL teams
 
-![](/images/resized%20pos%20vs%20win.png)
+![](/images/resized%20Screenshot%202021-02-05%20164226.png)
 
 # [Project 2: Churn Logistic Regression](https://github.com/jpqngo/Churn-Logistic-Regression-)
 * Created a logistic regression model calculating the liklihood a customer will switch providers in the next month 
