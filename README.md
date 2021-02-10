@@ -1,4 +1,4 @@
-# Data Project Portfolio
+# Jeffrey Ngo's Data Analytics Portfolio
 Building a data analytics portfolio 
 
 # [Project 1: NFL Salary and Cap Space](https://github.com/jpqngo/NFL-Salary-and-Cap-Space/blob/master/README.md)
