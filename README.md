@@ -5,11 +5,11 @@
 * Cleaned and prepared data for modeling
 * Gave examples of how the model can be used in good practice for NFL teams
 
-![](/images/redo%20resized.png)
+![](https://github.com/jpqngo/Jeffrey-Ngo-Data-Analytics-Portfolio/blob/main/images/redo%20resized.png)
 
 # [Project 2: Churn Logistic Regression](https://github.com/jpqngo/Churn-Logistic-Regression-)
 * Created a logistic regression model calculating the liklihood a customer will switch providers in the next month 
 * The model had a accuracy value of 78%
 * Using the analysis, developed a course of action to retaining customers 
 
-![](/images/redo%20resized%202%20.png)
+![](https://github.com/jpqngo/Jeffrey-Ngo-Data-Analytics-Portfolio/blob/main/images/redo%20resized%202%20.png)
