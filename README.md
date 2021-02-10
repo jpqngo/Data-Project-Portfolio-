@@ -1,7 +1,7 @@
 # Data-Project-Portfolio-
 Building a data analytics portfolio 
 
-# Project 1: NFL-Salary-and-Cap-Space
+# [Project 1: NFL-Salary-and-Cap-Space](https://github.com/jpqngo/NFL-Salary-and-Cap-Space/blob/master/README.md)
 * Created a linear regression model to calculate win percentage of an NFL team using player salaries and a team's active spending
 * Scraped 3 seasons of NFL position salary and team cap space from *Spotrac*
 * Cleaned and prepared data for modeling
