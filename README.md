@@ -7,12 +7,12 @@ Building a data analytics portfolio
 * Cleaned and prepared data for modeling
 * Gave examples of how the model can be used in good practice for NFL teams
 
-[](/images/pos%20vs%20win.png)
+![](/images/pos%20vs%20win.png)
 
 # [Project 2: Churn Logistic Regression](https://github.com/jpqngo/Churn-Logistic-Regression-)
 * Created a logistic regression model calculating the liklihood a customer will switch providers in the next month 
 * The model had a accuracy value of 78%
 * Using the analysis, developed a course of action to retaining customers 
 
-[](/images/bichurnCapture.PNG)
-[](/images/confusionCapture.PNG)
+![](/images/bichurnCapture.PNG)
+![](/images/confusionCapture.PNG)
