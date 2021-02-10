@@ -14,5 +14,5 @@ Building a data analytics portfolio
 * The model had a accuracy value of 78%
 * Using the analysis, developed a course of action to retaining customers 
 
-![](/resized%20Screenshot%202021-02-05%20164226.png
+![](/images/resized%20Screenshot%202021-02-05%20164226.png)
 ![](/images/confusionCapture.PNG)
